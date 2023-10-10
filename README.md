@@ -1,6 +1,6 @@
 - 👨‍🎓 I'm a Computer Engineering Student
 - 🌱 I’m currently learning backend in Flutter
-- 🔎 Into App development
+- 🔎 Into Full Stack Application development
 - 👯 I’m looking to collaborate More on Real World Problems
 - 💬 Ask me about Flutter and Share Market
 
