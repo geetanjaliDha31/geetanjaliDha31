@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Screenshot 2024-04-06 225458](https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/eb2e621a-1cc0-4c9c-a157-7887d617c4c1)
 
 <h1 align="center">Hi 👋, I'm Geetanjali Dhanwade</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
