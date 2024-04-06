@@ -1,6 +1,9 @@
-![Screenshot 2024-04-06 225458](https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/eb2e621a-1cc0-4c9c-a157-7887d617c4c1)
 
-<h1 align="center">Hi 👋, I'm Geetanjali Dhanwade</h1>
+https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/b9f5efc4-3bfc-4b6a-ad79-295def3afe8d
+<h1 align="center">Hi
+
+
+ 👋, I'm Geetanjali Dhanwade</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
 - 👨‍🎓 I'm a **Flutter Developer**
