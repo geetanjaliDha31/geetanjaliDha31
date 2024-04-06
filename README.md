@@ -1,20 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geetanjali Dhanwade</title>
-    <style>
-        .banner-container {
-            text-align: center;
-        }
-        .banner-image {
-            max-width: 100%;
-            height: auto;
-            display: inline-block;
-        }
-    </style>
-</head>
-<body>
+
 
 <div class="banner-container">
     <img src="https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/82d4acc4-be52-4cc7-8277-1d22a7b4070e" alt="Banner Image" class="banner-image">
