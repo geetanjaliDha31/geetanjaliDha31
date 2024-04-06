@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/82d4acc4-be52-4cc7-8277-1d22a7b4070e" alt="Screenshot" width="800px">
+  <img src="https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/82d4acc4-be52-4cc7-8277-1d22a7b4070e" alt="Screenshot" width="900px",height="90px",>
 </p>
 <h1 align="center">Hi👋, I'm Geetanjali Dhanwade</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
