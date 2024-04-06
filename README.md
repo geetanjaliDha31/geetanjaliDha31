@@ -6,17 +6,18 @@
 <h3 align="center">A passionate Android Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/3QEtSuzDveAAAAAC/garfield-im-working.gif">
-- 👨‍🎓 I'm a **Flutter Developer**
 
-- 🌱 I’m currently learning **React Native**
+- 👨‍🎓 I'm a _**Flutter Developer**_
 
-- 🔎 Into **Full Stack Application development**
+- 🌱 I’m currently learning _**React Native**_
 
-- 👯 I’m looking to collaborate **More on Real World Problems**
+- 🔎 Into _**Full Stack Application development**_
 
-- 💬 Ask me about **Flutter and Share Market**
+- 👯 I’m looking to collaborate _**More on Real World Problems**_
 
-- 📫 How to reach me **geeta312006@gmail.com**
+- 💬 Ask me about _**Flutter and Share Market**_
+
+- 📫 How to reach me _**geeta312006@gmail.com**_
 
 
 
