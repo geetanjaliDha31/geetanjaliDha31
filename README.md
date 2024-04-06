@@ -1,4 +1,5 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPritamSarbajna%2FCoding-platforms-Solution&psig=AOvVaw1eZRqm6NAnYOCW4j5T8pT5&ust=1712505166126000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD0qO35rYUDFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Geetanjali Dhanwade</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
