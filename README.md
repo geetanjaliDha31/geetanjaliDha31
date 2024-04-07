@@ -71,7 +71,7 @@
   <h2 style="text-align: center;">Have a Great Day!</h2>
 </p>
 
-<img src="https://i.pinimg.com/originals/09/e7/2a/09e72a0e75bc3d32c950064c943467a2.gif" alt="Coding" width="50">
+<img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50">
 
 
 ---
