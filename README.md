@@ -55,13 +55,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) &nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geetanjaliDha31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
