@@ -70,7 +70,8 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
    <p>
-      <h1 style="margin-right: 10px;">Have a Great Day!</h1><img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50" style="vertical-align: middle;">
+      <h1 style="margin-right: 10px;">Have a Great Day!</h1>
+     <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50" style="vertical-align: middle;">
   </p>
 </div>
 
