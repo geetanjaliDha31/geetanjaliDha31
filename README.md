@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/3QEtSuzDveAAAAAC/garfield-im-working.gif">
 
 <br/>
-<br/>
+
 - 👨‍🎓 I'm a _**Flutter Developer**_
 
 - 🌱 I’m currently learning _**React Native**_
