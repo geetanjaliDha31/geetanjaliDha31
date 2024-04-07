@@ -67,10 +67,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geetanjaliDha31&theme=dark&hide_border=false">
 </p>
 
-<div align="center">
+<div style="text-align: center; font-size: 24px; font-weight: bold;">
    Have a Great Day!
-  <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50">
+   <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50">
 </div>
+
 
 
 
