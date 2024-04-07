@@ -73,7 +73,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
    <h3>Have a great day!</h3>
-   <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50" style="vertical-align: middle;">
+   <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="40">
 </div>
 
 ---
