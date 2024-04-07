@@ -78,7 +78,8 @@
 
 <p style="display:inline-block;">
    <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="30">
-  <h3>Have a great day!</h3>
+  
+  **Have a great day!**
 </p>
 
 ---
