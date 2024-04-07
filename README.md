@@ -72,13 +72,9 @@
 </p>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-   <h2>Have a great day!</h2>
+   <h3>Have a great day!</h3>
    <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50">
 </div>
-
-<p style="display:inline-block;">
-   <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="30"> **Have a great day!**
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=geetanjaliDha31&icon=0&color=1)](https://visitcount.itsvg.in)
