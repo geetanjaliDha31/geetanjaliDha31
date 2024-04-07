@@ -66,7 +66,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=geetanjaliDha31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Have a Great Day ! <img align="right" alt="Coding" width="80" src="https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/c3772783-6be2-48fc-b0c5-2ab0964edf87">
+## Have a Great Day ! 
+<img align="right" alt="Coding" width="80" src="[https://github.com/geetanjaliDha31/geetanjaliDha31/assets/144832309/c3772783-6be2-48fc-b0c5-2ab0964edf87](https://i.gifer.com/5IPv.gif)">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
