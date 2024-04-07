@@ -68,13 +68,9 @@
 </p>
 
 <div style="text-align: center;">
-  <p style="font-size: 350px; display: inline-block;">
-    Have a Great Day!
-    <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50" style="vertical-align: middle;">
-  </p>
+   <p style="font-size: 72px;">Have a Great Day!</p>
+   <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50" style="vertical-align: middle;">
 </div>
-
-
 
 
 ---
