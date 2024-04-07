@@ -68,8 +68,9 @@
 </p>
 
 <p align="center">
-  <h2 style="flex: 1;">Have a Great Day!</h2>
+  <h2>Have a Great Day!</h2>
 </p>
+
   <img src="https://i.gifer.com/19yE.gif" alt="Coding" width="50">
 
 
