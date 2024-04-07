@@ -56,11 +56,17 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 
-<div style="text-align: center;">
+<style>
+    .centered {
+        display: flex;
+        justify-content: center;
+    }
+</style>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div class="centered">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
 
 
 ## 📊 GitHub Stats:
