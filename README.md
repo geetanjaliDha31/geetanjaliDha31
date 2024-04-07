@@ -76,10 +76,10 @@
    <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50">
 </div>
 
-<p> 
-  <span>Text next to the image</span> 
-  <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Description of the image" width="50" style="vertical-align: middle;"> 
-</p> 
+<p style="display:inline-block;">
+   <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50">
+  Some text
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=geetanjaliDha31&icon=0&color=1)](https://visitcount.itsvg.in)
