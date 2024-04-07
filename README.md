@@ -66,7 +66,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=geetanjaliDha31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Have a Great Day !camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966
+## Have a Great Day <img align="right" alt="Coding" width="80" src="camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966">
+!
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
