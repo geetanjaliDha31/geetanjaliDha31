@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 </p>
 
-<div style="text-align: center;">
+<div style="align: center;">
    <p style="font-size: 72px;">Have a Great Day!</p>
    <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50" style="vertical-align: middle;">
 </div>
