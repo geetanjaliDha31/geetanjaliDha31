@@ -63,6 +63,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geetanjaliDha31&hide_border=true">
 </p>
 
+<div style="background-image: url('https://github-readme-streak-stats.herokuapp.com/?user=geetanjaliDha31&theme=dark&hide_border=true');
+                background-size: cover;
+                background-position: center;
+                width: 100%;
+                height: 100vh;
+                opacity: 0.5;">
+        <!-- Your GitHub streak stats image -->
+    </div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 </p>
