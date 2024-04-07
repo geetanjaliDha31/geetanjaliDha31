@@ -62,13 +62,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=geetanjaliDha31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geetanjaliDha31&theme=dark&hide_border=false)<br/>
 
----
-
-
 <div style="display: flex; align-items: center; width: 100%;">
     <h2 style="flex: 1;">Have a Great Day!</h2>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl5ZGJvMW5oZHpxbWN0anRtM2wydnhuZmZwemtoaml6ZWg2eHpieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtawn86a7pUN1hAY/giphy.gif" alt="Coding" width="70" style="margin-left: 10px;">
 </div>
+
+
+---
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=geetanjaliDha31&icon=0&color=0)](https://visitcount.itsvg.in)
