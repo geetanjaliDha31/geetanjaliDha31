@@ -77,7 +77,7 @@
 </div>
 
 <p> 
-  <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Description of the image" style="vertical-align: middle;"> 
+  <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Description of the image" width="50" style="vertical-align: middle;"> 
   <span>Text next to the image</span> 
 </p> 
 
