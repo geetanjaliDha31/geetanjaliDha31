@@ -67,10 +67,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geetanjaliDha31&theme=dark&hide_border=false">
 </p>
 
-<div style="display: flex; align-items: center; width: 100%;">
-    <h2 style="flex: 1;">Have a Great Day!</h2>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl5ZGJvMW5oZHpxbWN0anRtM2wydnhuZmZwemtoaml6ZWg2eHpieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtawn86a7pUN1hAY/giphy.gif" alt="Coding" width="70" style="margin-left: 10px;">
-</div>
+<p align="center">
+  <h2 style="flex: 1;">Have a Great Day!</h2>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl5ZGJvMW5oZHpxbWN0anRtM2wydnhuZmZwemtoaml6ZWg2eHpieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtawn86a7pUN1hAY/giphy.gif" alt="Coding" width="70" style="margin-left: 10px;">
+</p>
 
 
 ---
