@@ -76,6 +76,11 @@
    <img src="https://i.pinimg.com/originals/d5/d1/ec/d5d1ecf7175829114207d9e396ec21cd.gif" alt="Coding" width="50">
 </div>
 
+<p> 
+  <img src="image.jpg" alt="Description of the image" style="vertical-align: middle;"> 
+  <span>Text next to the image</span> 
+</p> 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=geetanjaliDha31&icon=0&color=1)](https://visitcount.itsvg.in)
 
