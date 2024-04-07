@@ -68,10 +68,10 @@
 </p>
 
 <p align="center">
-  <h2>Have a Great Day!</h2>
+  <h2 style="text-align: center;>Have a Great Day!</h2>
 </p>
 
-  <img src="https://i.gifer.com/19yE.gif" alt="Coding" width="50">
+  <img src="https://i.pinimg.com/originals/3d/87/39/3d87397ea0e7d6e157294957754e49cf.gif" alt="Coding" width="50">
 
 
 ---
